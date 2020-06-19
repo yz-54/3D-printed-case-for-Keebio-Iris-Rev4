@@ -14,16 +14,16 @@ I printed the middle layer using translucent filament to get better lighting
 Fusion360 file is included for anyone wants to modify themselves
 
 ### You will need
-3D printed parts
+3D printed parts\
 14mm M3 bolts and nuts (Has to be 14mm. Or you have to use spacers if longer than 14.
-Shorter won't work)
-12mm by 2mm magnets
-10mm by 3mm rubber feet (3/8" by 1/8")
-super glue
+Shorter won't work)\
+12mm by 2mm magnets\
+10mm by 3mm rubber feet (3/8" by 1/8")\
+super glue\
 (optional some needle file)
 
 ### Printer settings:
-layer height 0.15mm
+layer height 0.15mm\
 Use supports
 
 ### Additionals
