@@ -27,8 +27,8 @@ layer height 0.15mm\
 Use supports
 
 ### Additionals
-Assembly video:
-https://www.youtube.com/watch?v=JfHvijxanyk
+[Assembly video](https://www.youtube.com/watch?v=JfHvijxanyk)
 
-video2:
-https://www.youtube.com/watch?v=asMdvHQnd10&feature=youtu.be
+[video demo 2](https://www.youtube.com/watch?v=asMdvHQnd10&feature=youtu.be)
+
+[Link to thingiverse](https://www.thingiverse.com/thing:4484220)
