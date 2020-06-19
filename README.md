@@ -13,6 +13,14 @@ I printed the middle layer using translucent filament to get better lighting
 
 Fusion360 file is included for anyone wants to modify themselves
 
+![Front](https://imgur.com/tt6Vqqd)
+
+![back](https://imgur.com/kAjbVFy)
+
+![folded](https://imgur.com/KxaHvoC)
+
+![Tolerance](https://imgur.com/XImzAYV)
+
 ### You will need
 3D printed parts\
 14mm M3 bolts and nuts (Has to be 14mm. Or you have to use spacers if longer than 14.
