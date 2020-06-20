@@ -4,7 +4,7 @@ Ultra thin 3D printed cases for Keebio Iris Rev.4 PCB, with magnets snapping fea
 ### Summary:
 3D printed case for Keebio Iris Rev.4 PCB\
 Assumable these using 14mm M3 bolts and nuts (bolts longer than 14mm will stick out and two pieces won't snap together)\
-Ultra-thin profile, the middle layer is 6.8mm thick and two-piece can be snapped together and held by magnets for easy carry
+Ultra-thin profile, the middle layer is 6.8mm thick and two-piece can be snapped together and held by magnets for easy carry\
 Added external buttons for easy firmware flashing\
 I printed the middle layer using translucent filament to get better lighting\
 Fusion360 file is included for anyone wants to modify themselves
