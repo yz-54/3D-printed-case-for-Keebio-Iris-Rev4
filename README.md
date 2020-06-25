@@ -17,7 +17,7 @@ Fusion360 file is included for anyone wants to modify themselves
 
 ![Tolerance](https://user-images.githubusercontent.com/55030231/85173619-a7706200-b241-11ea-91a2-1adc52a24652.jpg)
 
-![gif](https://i.imgur.com/i6KHV2p.gifv)
+![gif](https://user-images.githubusercontent.com/55030231/85793217-aa1bfd00-b702-11ea-9df1-a577902a29f9.gif)
 
 ### You will need:
 3D printed parts\
