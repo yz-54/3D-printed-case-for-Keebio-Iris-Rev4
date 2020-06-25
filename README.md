@@ -41,3 +41,9 @@ Use supports
 [video demo 2](https://www.youtube.com/watch?v=asMdvHQnd10&feature=youtu.be)
 
 [Link to thingiverse](https://www.thingiverse.com/thing:4484220)
+
+
+## Version 2
+In this version, [ErgoDox EZ tilt/ tent kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) is supported for the middle layer
+layer height is 11mm, use M3 nuts as well
+![ver2](https://user-images.githubusercontent.com/55030231/85798108-e8b5b580-b70a-11ea-9d74-6857f8529c8d.png)
