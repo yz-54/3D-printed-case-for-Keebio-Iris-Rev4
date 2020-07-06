@@ -45,8 +45,10 @@ Use supports
 
 <br/><br/>
 
-## Version 2 - tent support
+## Version 2 - tent support, added rim
 
 In this version, [ErgoDox EZ tilt/ tent kit](https://ergodox-ez.com/products/tilt-tent-kit?variant=16101844419) is supported for the middle layer\
 layer height is 11mm and button has been modded. Use M3 nuts to put them togather\
 ![ver2](https://user-images.githubusercontent.com/55030231/85798108-e8b5b580-b70a-11ea-9d74-6857f8529c8d.png)
+
+Also added 1mm rims to top and bottom plates and middle layer, so there's extra space for slicing
